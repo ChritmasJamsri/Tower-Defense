@@ -1,0 +1,313 @@
+Using pre-set license
+Built from '2021.2/staging' branch; Version is '2021.2.2f1 (5e2b1e92c7f8) revision 6171422'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19045.4291; Version 2009; 64bit' Language: 'th' Physical Memory: 16345 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+E:\2021.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/project_S/TowerDefense_11/TowerDefense_11_5/TDTut
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56268
+Successfully changed project path to: E:/project_S/TowerDefense_11/TowerDefense_11_5/TDTut
+E:/project_S/TowerDefense_11/TowerDefense_11_5/TDTut
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Refreshing native plugins compatible for Editor in 89.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.2.2f1 (5e2b1e92c7f8)
+[Subsystems] Discovering subsystems at path E:/2021.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/project_S/TowerDefense_11/TowerDefense_11_5/TDTut/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   NVIDIA
+    VRAM:     4004 MB
+    Driver:   31.0.15.5176
+Initialize mono
+Mono path[0] = 'E:/2021.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'E:/2021.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'E:/2021.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56840
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/2021.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004726 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 91.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.800 seconds
+Domain Reload Profiling:
+	ReloadAssembly (800ms)
+		BeginReloadAssembly (110ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (590ms)
+			LoadAssemblies (109ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (137ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (357ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (92ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (178ms)
+				ProcessInitializeOnLoadMethodAttributes (68ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007394 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\project_S\TowerDefense_11\TowerDefense_11_5\TDTut\Library\PackageCache\com.unity.visualscripting@1.7.5\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image E:\project_S\TowerDefense_11\TowerDefense_11_5\TDTut\Library\PackageCache\com.unity.visualscripting@1.7.5\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.486 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1487ms)
+		BeginReloadAssembly (274ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (1081ms)
+			LoadAssemblies (140ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (306ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (71ms)
+			SetupLoadedEditorAssemblies (469ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (98ms)
+				ProcessInitializeOnLoadAttributes (321ms)
+				ProcessInitializeOnLoadMethodAttributes (29ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3110 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (55.5 KB). Loaded Objects now: 3568.
+Memory consumption went from 110.7 MB to 110.7 MB.
+Total: 3.570000 ms (FindLiveObjects: 0.375700 ms CreateObjectMapping: 0.344800 ms MarkObjects: 2.763700 ms  DeleteObjects: 0.083700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 8766.422320 seconds.
+  path: Assets/Scripts/Astar/AStarDebugger.cs
+  artifactKey: Guid(3ee1803cc7e90394b9429e5673f2aa18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Astar/AStarDebugger.cs using Guid(3ee1803cc7e90394b9429e5673f2aa18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc39452071154bd7cd30b482667df2aa') in 0.135456 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.975575 seconds.
+  path: Assets/Scripts/Astar/AStar.cs
+  artifactKey: Guid(7cf1331b90aa34d419ebc550093812fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Astar/AStar.cs using Guid(7cf1331b90aa34d419ebc550093812fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52256248aced8945be9c40a917979d76') in 0.021535 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.928306 seconds.
+  path: Assets/Scripts/Astar/DebugTile.cs
+  artifactKey: Guid(cf1ac1daa297b474298515bd37d3a060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Astar/DebugTile.cs using Guid(cf1ac1daa297b474298515bd37d3a060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38681a164c0872aa5ce69742cd1103c9') in 0.008771 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.514460 seconds.
+  path: Assets/Scripts/Astar/Node.cs
+  artifactKey: Guid(298640e9c113c2e4c9a71565789d89c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Astar/Node.cs using Guid(298640e9c113c2e4c9a71565789d89c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd96a9a7e5fa88b95516552e3102d6ba0') in 0.012140 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.358701 seconds.
+  path: Assets/Scripts/Debuffs/StormDebuff.cs
+  artifactKey: Guid(372a85af99ecdc0409b86575577ddcb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Debuffs/StormDebuff.cs using Guid(372a85af99ecdc0409b86575577ddcb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d00e1666fb0a9581dcfbbe1218170c8') in 0.078343 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.862220 seconds.
+  path: Assets/DeathBehaviour.cs
+  artifactKey: Guid(5ead2fb9e9fb3e945ae22cc5abad50f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeathBehaviour.cs using Guid(5ead2fb9e9fb3e945ae22cc5abad50f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '573adde8bdd69a22c514f493ef0b84a9') in 0.028049 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.340487 seconds.
+  path: Assets/ImpactBehaviour.cs
+  artifactKey: Guid(e67fa0d664aed744fa2a3ff928fccaea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImpactBehaviour.cs using Guid(e67fa0d664aed744fa2a3ff928fccaea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83e124b28463d3337272aecccb9d4d28') in 0.011121 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.121785 seconds.
+  path: Assets/Prefabs/Bar.prefab
+  artifactKey: Guid(d5414f24df6970e4893bbae3684e84b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Bar.prefab using Guid(d5414f24df6970e4893bbae3684e84b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a13c75d21c53ccf00e62b875f1172d71') in 0.052356 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Prefabs/HealthbarCanvas.prefab
+  artifactKey: Guid(aba5430b9d4a90f4581090a08422be24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealthbarCanvas.prefab using Guid(aba5430b9d4a90f4581090a08422be24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6be93a5757915809e39f066c8501836') in 0.015565 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.265134 seconds.
+  path: Assets/Fonts/CarterOne.ttf
+  artifactKey: Guid(462eb0c15fc07814e87ed0eaaa27ad0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/CarterOne.ttf using Guid(462eb0c15fc07814e87ed0eaaa27ad0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dba57d19626d9f92567e47a6b191e4a') in 0.183984 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.599878 seconds.
+  path: Assets/Scripts/Point.cs
+  artifactKey: Guid(c720f6651d8d794478b284969fc1efc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Point.cs using Guid(c720f6651d8d794478b284969fc1efc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3affc8305e816ad15faf25519c96af4') in 0.011387 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2275.809242 seconds.
+  path: Assets/Scripts/BarScript.cs
+  artifactKey: Guid(5630941393d7c45468b284bac29879d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BarScript.cs using Guid(5630941393d7c45468b284bac29879d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1c228c1ee19261a28692f8a99b6ed08') in 0.011445 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.725922 seconds.
+  path: Assets/Scripts/Hover.cs
+  artifactKey: Guid(a3bc8a129e0eeb34a83ec108d919de3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Hover.cs using Guid(a3bc8a129e0eeb34a83ec108d919de3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89faeda0a8df3e7d26494c6bf8a7f17d') in 0.012365 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.501382 seconds.
+  path: Assets/Scripts/LevelManager.cs
+  artifactKey: Guid(9f92f8dcbf745f24a9a6fcffa7d36720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LevelManager.cs using Guid(9f92f8dcbf745f24a9a6fcffa7d36720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '766c464b8ece1826979ce7c59fdb7dba') in 0.013284 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.639904 seconds.
+  path: Assets/Scripts/Monster.cs
+  artifactKey: Guid(295aac01b62b07041938285733d02522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Monster.cs using Guid(295aac01b62b07041938285733d02522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c78727e070c052ae288d7d6360a82338') in 0.010110 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.545757 seconds.
+  path: Assets/Scripts/ObjectPool.cs
+  artifactKey: Guid(cd9d03bee911b3e4d929489ef626e951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ObjectPool.cs using Guid(cd9d03bee911b3e4d929489ef626e951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5d1105c092fbf1844a22553fdaf458f') in 0.020055 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.584584 seconds.
+  path: Assets/Scripts/Projectile.cs
+  artifactKey: Guid(5622721efe1ae8d48963cb4b4992dabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Projectile.cs using Guid(5622721efe1ae8d48963cb4b4992dabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d4510dba3a6810ae9f19c554889c91b') in 0.012039 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.627104 seconds.
+  path: Assets/Scripts/Singleton.cs
+  artifactKey: Guid(87d8179f4f7a24c4d950d739a17fa54d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Singleton.cs using Guid(87d8179f4f7a24c4d950d739a17fa54d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '624a9b0e0dbe1f669d6876b1a648f094') in 0.011068 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.561356 seconds.
+  path: Assets/Scripts/TowerBtn.cs
+  artifactKey: Guid(5f3e651cd15fa4a40becfc725f76e3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/TowerBtn.cs using Guid(5f3e651cd15fa4a40becfc725f76e3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39a01e2c79fdf8b521e1fda0ce03fa57') in 0.011034 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.377271 seconds.
+  path: Assets/Scripts/TileScript.cs
+  artifactKey: Guid(99641d354d117074fb56e2e257fd91fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/TileScript.cs using Guid(99641d354d117074fb56e2e257fd91fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52281c2ed7dd80a9d885f349c2f3051b') in 0.010563 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.372382 seconds.
+  path: Assets/Scripts/Stat.cs
+  artifactKey: Guid(c15c52bb7d16e454785305a87be1760a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Stat.cs using Guid(c15c52bb7d16e454785305a87be1760a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b3108b1fc3be0f19b70701be61f0539') in 0.011106 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 39.650956 seconds.
+  path: Assets/Scripts/Portal.cs
+  artifactKey: Guid(bc5332b72822eb04890d7fa56bda4f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Portal.cs using Guid(bc5332b72822eb04890d7fa56bda4f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e7aadbb30bb3d61849228b9c4aedf92') in 0.011236 seconds 
